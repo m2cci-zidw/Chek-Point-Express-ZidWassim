@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: url(https://lh3.googleusercontent.com/proxy/ueyt9IXA9OKdVXUqaewM5L-r9tswgbO07I27vOZtkXdPyfYysV-_GusV3n3fjrok3_p5RAWShQ4sN8DCKoLmm_8YrF2mF0ZSypfbAYHhhBS2dU2joiDimVg1neT0);
+    
+    background-size :cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.content{
+    margin: 0 300px;
+    /* text-align: center; */
+
+
+}
